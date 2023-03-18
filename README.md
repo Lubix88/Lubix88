@@ -1,7 +1,7 @@
 # LubixDev
 **`(Developer/Electronic)`**
 
----
+#
 
 ### Languages and Tools I use
 
@@ -23,9 +23,10 @@
   <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
   <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" />
+  <br />
   
 #
----
+
 
 ### 📊 Stats
 
