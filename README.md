@@ -1,4 +1,4 @@
-# LubixDev
+# Lubix88
 **`(Developer/Electronic)`**
 
 #
@@ -28,6 +28,6 @@
 
 ### 📊 Stats
 
-![Lubix's GitHub stats](https://github-readme-stats.vercel.app/api?username=LubixDev&show_icons=true&theme=transparent)
+![Lubix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lubix88&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LubixDev&theme=transparent)](https://github.com/LubixDev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lubix88&theme=transparent)](https://github.com/Lubix88/github-readme-stats)
